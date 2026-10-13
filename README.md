@@ -12,9 +12,6 @@ claude plugin marketplace add ValentinCmbr/claude-skills
 claude plugin install skills@valentin
 ```
 
-Le dépôt est privé : il faut avoir accepté mon invitation GitHub et être connecté à GitHub sur ta
-machine (par exemple avec `gh auth login`).
-
 Puis, si tu veux les plugins de sécurité :
 
 ```bash
