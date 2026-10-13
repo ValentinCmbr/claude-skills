@@ -1,0 +1,34 @@
+{
+  "name": "valentin",
+  "description": "Les skills et plugins Claude Code que Valentin utilise, relus avant d'etre ajoutes.",
+  "owner": {
+    "name": "Valentin",
+    "url": "https://github.com/ValentinCmbr"
+  },
+  "plugins": [
+    {
+      "name": "skills",
+      "source": "./plugins/skills",
+      "description": "15 skills : methode, backend, React, design et diagrammes (voir le README)."
+    },
+    {
+      "name": "owasp-security",
+      "source": {
+        "source": "github",
+        "repo": "agamm/claude-code-owasp",
+        "sha": "8ac7965caa212b4a850aff8d3df0081ab3fa9eed"
+      },
+      "description": "Revue de securite OWASP Top 10:2025 et ASVS 5.0, avec tri des faux positifs (par Agam More)."
+    },
+    {
+      "name": "differential-review",
+      "source": {
+        "source": "git-subdir",
+        "url": "trailofbits/skills",
+        "path": "plugins/differential-review",
+        "sha": "8e54050ae63c2f62224c35b1616efe71865b4777"
+      },
+      "description": "Revue de securite d'une PR ou d'un diff (par Trail of Bits)."
+    }
+  ]
+}

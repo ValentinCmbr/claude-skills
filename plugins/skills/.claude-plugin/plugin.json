@@ -1,0 +1,11 @@
+{
+  "name": "skills",
+  "description": "Selection de skills Claude Code de Valentin : methode (verification, TDD, recherche avant de coder), backend Node/Express, React, design (ui-ux-pro-max, taste-skill) et diagrammes (archify).",
+  "version": "1.0.0",
+  "author": {
+    "name": "Valentin",
+    "url": "https://github.com/ValentinCmbr"
+  },
+  "license": "MIT",
+  "keywords": ["skills", "methode", "react", "node", "design", "diagrammes"]
+}
