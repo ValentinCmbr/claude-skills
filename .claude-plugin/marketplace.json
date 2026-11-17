@@ -9,7 +9,7 @@
     {
       "name": "skills",
       "source": "./plugins/skills",
-      "description": "15 skills : methode, backend, React, design et diagrammes (voir le README)."
+      "description": "33 skills : methode, architecture, backend, React, design, diagrammes et config Claude Code (voir le README)."
     },
     {
       "name": "owasp-security",
